@@ -29,7 +29,7 @@
         "xamarinmac-3.0"
       ],
       "moniker_ranges": [],
-      "open_to_public_contributors": true,
+      "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content"
       },
